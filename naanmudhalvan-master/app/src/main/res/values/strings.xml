@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Owl Application</string>
+    <string name="course1">Course 1: Introduction to Kotlin</string>
+    <string name="topic1">Understanding Basics</string>
+    <string name="course2">Course 2: Advanced Kotlin</string>
+    <string name="topic2">Deep Dive into Functions</string>
+    <string name="course3">Course 3: Android Development</string>
+    <string name="topic3">Building Composables</string>
+    <string name="course4">Course 4: UI Design</string>
+    <string name="topic4">Layout Best Practices</string>
+    <string name="title_activity_main5">MainActivity5</string>
+    <string name="subheading1_1">Your text here</string>
+    <string name="text1_1">This is the content for text!_1</string>
+    <string name="subheading1_2">Subheading 1.2</string>
+    <string name="text1_2">This is the content for text!_2</string>
+    <string name="subheading2_1">Your subheading 2.1 text here</string>
+    <string name="text2_1">Your content for text2_1 here</string>
+    <string name="subheading2_2">Your subheading 2.2 text here</string>
+    <string name="text2_2">Your content for text2_2 here</string>
+    <string name="subheading3_1">Your subheading 3.1 text here</string>
+    <string name="text3_1">Your content for text3_1 here</string>
+    <string name="subheading3_2">Your subheading 3.2 text here</string>
+    <string name="text3_2">Your content for text3_2 here</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_main4">Main Activity 4</string>
+    <string name="title_activity_main3">Main Activity 3</string>
+    <string name="title_activity_main2">Main Activity 2</string>
+
+
+
+</resources>
+
+
